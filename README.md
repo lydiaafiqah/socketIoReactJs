@@ -3,7 +3,8 @@
 Create two folders > client and server
 
 Client
-1. yarn create react-app
+1. yarn create react-app .
+2. yarn add socket.io-client
 
 Server
 1. yarn init
